@@ -9,11 +9,10 @@
 
 # print(a + b)
 
-print(3 * 3 + 3 / 3 - 3) #7.0 es el resultado.
+# print(3 * 3 + 3 / 3 - 3) #7.0 es el resultado.
 
-
-print(3 + 3 / 3 * 3 - 3) #Cambie el orden del codigo para que de como resultado 3.0
-
+# print(3 + 3 / 3 * 3 - 3) #Cambie el orden del codigo para que de como resultado 3.0
+# print(3 * (3 + 3) / 3 - 3) #Otra forma de hacerlo usando la jerarquia.
 
 
 
